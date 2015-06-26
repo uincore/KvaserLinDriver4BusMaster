@@ -1,6 +1,6 @@
 Kvaser LIN Device Driver for BusMaster
 
-BusMaster 2.5.0
+BusMaster 2.6.1
 
 IDE:
   Microsoft Visual Studio Express 2012 for Windows Desktop V11.0.61030.00 Update4
